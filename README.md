@@ -8,5 +8,4 @@ E commerce 에서 사용할 수 있는 지표
 
 3. 첫 주문일 & 재구매 소요기간 
 
-4. CLV (Customer Lifetime Value)
-
+4. Cohort 분석
