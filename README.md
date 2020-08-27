@@ -1,6 +1,6 @@
 # E-commerce
 E commerce 에서 사용할 수 있는 지표
-* 각 ipynb파일 번호와, 샘플 파일 번호 일치함
+* sample data로 제작됨
 
 1. 주문자 연령대  
  - 나이 data cleansing
