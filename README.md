@@ -1,4 +1,4 @@
-# E-commerce
+# 📊 E-commerce
 E commerce 에서 사용할 수 있는 지표
 * sample data로 제작됨
 
